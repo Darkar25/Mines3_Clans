@@ -9,5 +9,6 @@
 	Xx_ToP4iK_xX (ID 35301)
 	Лень (ID 221)
 	SkyRim (ID 5903)
+	Frenk (ID 14126)
 	LojioX
 	ЧЕГЕРМАН
