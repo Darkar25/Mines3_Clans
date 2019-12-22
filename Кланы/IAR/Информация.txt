@@ -5,3 +5,4 @@
 	Fulula (ID 6496)
 	DETONATOR (ID 25614)
 	Supreme (ID 56)
+	CAJLArA (ID 70)
