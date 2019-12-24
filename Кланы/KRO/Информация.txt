@@ -7,3 +7,4 @@
 	Дмитрий (ID 69)
 	Skylar (ID 6432)
 	Delete (ID 76)
+	Vivaldi (ID 594)
