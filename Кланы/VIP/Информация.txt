@@ -8,3 +8,4 @@
 	myachin (ID 18)
 	Osobo opasen (ID 5575)
 	Крыса (ID 3723)
+	Лапа (ID 136)
