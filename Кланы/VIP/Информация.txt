@@ -9,3 +9,4 @@
 	Osobo opasen (ID 5575)
 	Крыса (ID 3723)
 	Лапа (ID 136)
+	ALITA (ID 11199)
