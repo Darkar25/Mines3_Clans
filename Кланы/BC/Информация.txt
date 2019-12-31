@@ -7,3 +7,4 @@
 	о_о (ID 22062)
 	blue (ID 40455)
 	MaxWinner (ID 319)
+	Fraudrin (ID 32853)
